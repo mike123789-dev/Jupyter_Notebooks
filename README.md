@@ -1,2 +1,2 @@
 # Jupyter_Notebooks
-most of the projects are from DataCAmp
+most of the projects are from DataCamp
