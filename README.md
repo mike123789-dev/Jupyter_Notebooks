@@ -10,7 +10,6 @@ The "code" cells are filled by myself, however the "text" cells are all prov and
 In the **SKKU Projects** folder I have saved projects that I have learned from my ESM3061 Data Mining class taught by professor LEE JS
 The professors homepage can be found at http://115.145.162.88/?page_id=45
 I have learned about the following
-- Exploratory Data Analysis and Visualization
 - Logistic Regression
 - Bayesian Classifiers
 - Discriminant Analysis
@@ -23,7 +22,7 @@ I have learned about the following
 - Association Rule Mining
 - Recommender Systems: Collaborative Filtering
 
-I tried to review my semester by dive a little more deeper by the codes and methods provided by the professor
+I tried to review my semester by diving a little more deeper by the codes and methods provided by the professor
 
 
 ### MY Projects
